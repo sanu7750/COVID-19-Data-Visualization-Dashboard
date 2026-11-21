@@ -1,0 +1,122 @@
+{
+  "global_total_cases": 1493592641,
+  "global_total_deaths": 10732327,
+  "global_total_recovered": 1480360584,
+  "global_overall_cfr_pct": 0.72,
+  "global_overall_recovery_rate_pct": 99.11,
+  "global_total_doses_administered": 11117378992,
+  "vaccine_impact_metrics": {
+    "pre_vaccine_cfr_pct": 2.38,
+    "post_vaccine_cfr_pct": 0.37,
+    "cfr_reduction_percentage": 84.5,
+    "insight": "Vaccine rollouts decoupled transmission from mortality, reducing Case Fatality Rate by 84.5% worldwide."
+  },
+  "top_5_countries_by_cases": [
+    {
+      "country": "China",
+      "cumulative_cases": 343029441,
+      "cases_per_million": 238326.81
+    },
+    {
+      "country": "India",
+      "cumulative_cases": 328306233,
+      "cases_per_million": 237902.31
+    },
+    {
+      "country": "United States",
+      "cumulative_cases": 94697662,
+      "cases_per_million": 285325.24
+    },
+    {
+      "country": "Brazil",
+      "cumulative_cases": 59738588,
+      "cases_per_million": 281044.18
+    },
+    {
+      "country": "Indonesia",
+      "cumulative_cases": 59718352,
+      "cases_per_million": 218329.78
+    }
+  ],
+  "top_5_countries_by_deaths": [
+    {
+      "country": "China",
+      "cumulative_deaths": 2537633,
+      "deaths_per_million": 1763.07
+    },
+    {
+      "country": "India",
+      "cumulative_deaths": 2469049,
+      "deaths_per_million": 1789.16
+    },
+    {
+      "country": "United States",
+      "cumulative_deaths": 606440,
+      "deaths_per_million": 1827.21
+    },
+    {
+      "country": "Indonesia",
+      "cumulative_deaths": 437573,
+      "deaths_per_million": 1599.76
+    },
+    {
+      "country": "Brazil",
+      "cumulative_deaths": 425154,
+      "deaths_per_million": 2000.17
+    }
+  ],
+  "top_5_countries_by_vaccination": [
+    {
+      "country": "Norway",
+      "fully_vaccinated_pct": 84.64,
+      "total_vaccinations": 12817679
+    },
+    {
+      "country": "Netherlands",
+      "fully_vaccinated_pct": 84.63,
+      "total_vaccinations": 40507787
+    },
+    {
+      "country": "Poland",
+      "fully_vaccinated_pct": 84.4,
+      "total_vaccinations": 89230587
+    },
+    {
+      "country": "Switzerland",
+      "fully_vaccinated_pct": 84.32,
+      "total_vaccinations": 20386587
+    },
+    {
+      "country": "South Korea",
+      "fully_vaccinated_pct": 84.09,
+      "total_vaccinations": 120426374
+    }
+  ],
+  "top_5_countries_by_recovery": [
+    {
+      "country": "Norway",
+      "recovery_rate_pct": 99.26,
+      "cumulative_recovered": 1209499
+    },
+    {
+      "country": "Singapore",
+      "recovery_rate_pct": 99.25,
+      "cumulative_recovered": 1017061
+    },
+    {
+      "country": "Belgium",
+      "recovery_rate_pct": 99.25,
+      "cumulative_recovered": 2744027
+    },
+    {
+      "country": "New Zealand",
+      "recovery_rate_pct": 99.24,
+      "cumulative_recovered": 833464
+    },
+    {
+      "country": "Portugal",
+      "recovery_rate_pct": 99.23,
+      "cumulative_recovered": 2383092
+    }
+  ]
+}
